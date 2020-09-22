@@ -1,2 +1,4 @@
 alarm.py
 mail.py
+*.vbs
+*.bat

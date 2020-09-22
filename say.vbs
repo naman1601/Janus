@@ -1,1 +1,0 @@
-dim sapi : set sapi = CreateObject("sapi.spvoice") : sapi.Speak "See ya later, sir."
