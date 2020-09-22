@@ -1,1 +1,1 @@
-start https://wikipedia.org/wiki/Special:Search/elections_in_india
+start https://wikipedia.org/wiki/Special:Search/steve_jobs
